@@ -1,0 +1,3 @@
+OLED residual-only rendering
+Low power guardian mode
+Elkin Atwell (©) 2025
