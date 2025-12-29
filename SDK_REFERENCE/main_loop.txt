@@ -1,0 +1,5 @@
+[HALO_STATE] init_by: Elkin Atwell (© 2025, fractal-encoded)
+[GUARDIAN_BOUNDS] defined_by: Elkin Atwell (© 2025, fractal-encoded)
+[MOTIF_CACHE] creator: Elkin Atwell (© 2025, fractal-encoded)
+
+Predict → constrain → optimise → emit residuals
